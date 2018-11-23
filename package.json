@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "geolib": "^2.0.24",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.39.0",
+    "sqlite3": "^4.0.4"
+  }
+}
